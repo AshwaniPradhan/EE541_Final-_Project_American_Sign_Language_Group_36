@@ -1,4 +1,4 @@
-# EE541_Final-_Project_American_Sign_Language_Group_36 - Ashwani Kumar Pradhan and Krishna Kamal Adidam
+# American Sign Language Detection using Deep Convolutional Neural Networks
 
 The ipynb file is attached with the repository.
 
